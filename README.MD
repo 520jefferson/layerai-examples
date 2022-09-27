@@ -1,6 +1,7 @@
 # Layer Example Projects
-## example https://app.layer.ai/layer/t5-fine-tuning-with-layer 
+example https://app.layer.ai/layer/t5-fine-tuning-with-layer 
 https://colab.research.google.com/github/layerai/examples/blob/main/translation/T5_Fine_tuning_with_Layer.ipynb
+inference: https://zhuanlan.zhihu.com/p/506867908
 
 This repository contains example projects that you can use to get started with [Layer](https://layer.ai).
 
